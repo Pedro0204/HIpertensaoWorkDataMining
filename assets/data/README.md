@@ -1,13 +1,13 @@
-# Artefatos relativos à coleta e preparação de dados
+# Origem da base de dados.
 
-Este diretório mantém os artefatos relatório à modelagem de dados do projeto. 
+A base de dados é da PNS 2019. 
 
 Os principais documentos a serem produzidos são:
 
-* `data_raw.csv`
-	* base principal original. pode ser em qualquer formato tabular
+* `pns2019.csv`
+	* [base principal original. pode ser em qualquer formato tabular](https://sgapucminasbr-my.sharepoint.com/:u:/g/personal/1440983_sga_pucminas_br/EdsHWCe76zZGuGNX-T1nuS4BcUXqRv2j4uKBUd2SYPAM4g?e=8UIWMX)
 
-* `other_data_raw.csv`
+* `dados_hipertensao31_40.csv`
 	* outras bases utilizadas no processo de enriquecimento
 
 * `final_processed_data.csv`
