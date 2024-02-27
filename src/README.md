@@ -88,6 +88,10 @@ Cor ou Raça 'Amarela': 42 registros
 Cor ou Raça 'Indígena': 37 registros
 ````
 
+# Gráficos por região
+
+Os gráficos foram feitos pela plataforma que informa os registros de homem e mulher por região:
+http://127.0.0.1:8050
 
 
 
